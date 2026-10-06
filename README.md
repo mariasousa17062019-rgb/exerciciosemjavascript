@@ -1,4 +1,2 @@
-#
-##
-### este é um codigo em java script de uma calculadora com 3 funcões divisão,multiplicação,soma
-escolha uma função em seguida aparecerá a soma do numero escolhido
+# Bem-vindo ao meu repositório!
+### Aqui compartilho diferentes projetos e atividades feitos para praticar meus conhecimentos,explorar novas possibilidades e acompanhar minha evolução no mundo da tecnologia.
